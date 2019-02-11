@@ -3,11 +3,8 @@ See the original code here: [vue-number-input-spinner](https://github.com/krysta
 ---
 
 
-# vue-number-input-spinner
-A customizable number input spinner component for Vuejs
-
-## Demo
-[https://krystalcampioni.github.io/vue-number-input-spinner/](https://krystalcampioni.github.io/vue-number-input-spinner/)
+# input-plus-minus
+A Vue number input component designed with Bootstrap.  The component has plus and minus buttons to increment and decrement the number.
 
 ## Installation
 
