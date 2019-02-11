@@ -1,3 +1,8 @@
+See the original code here: [vue-number-input-spinner](https://krystalcampioni.github.io/vue-number-input-spinner/)
+
+---
+
+
 # vue-number-input-spinner
 A customizable number input spinner component for Vuejs
 
